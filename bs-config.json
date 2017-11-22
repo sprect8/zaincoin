@@ -2,5 +2,5 @@
   "server": {
     "baseDir": ["./src", "./build/contracts"]
   },
-  "port":"80"
+  "port": 8080
 }
